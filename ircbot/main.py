@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 import time
-import pydle
+import pydle #this is pydle
 
 import logging
 
